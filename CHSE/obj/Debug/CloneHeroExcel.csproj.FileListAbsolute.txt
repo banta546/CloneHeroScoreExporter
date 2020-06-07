@@ -1,0 +1,11 @@
+C:\Users\Antony\source\repos\CloneHeroExcel\obj\Debug\CloneHeroExcel.csprojAssemblyReference.cache
+C:\Users\Antony\source\repos\CloneHeroExcel\obj\Debug\CloneHeroExcel.csproj.GenerateResource.cache
+C:\Users\Antony\source\repos\CloneHeroExcel\obj\Debug\CloneHeroExcel.csproj.CoreCompileInputs.cache
+C:\Users\Antony\source\repos\CloneHeroExcel\obj\Debug\CloneHeroExcel.MainForm.resources
+C:\Users\Antony\source\repos\CloneHeroExcel\obj\Debug\CloneHeroExcel.LoadingForm.resources
+C:\Users\Antony\source\repos\CloneHeroExcel\bin\Debug\CloneHeroScoreExporter.exe.config
+C:\Users\Antony\source\repos\CloneHeroExcel\bin\Debug\CloneHeroScoreExporter.exe
+C:\Users\Antony\source\repos\CloneHeroExcel\bin\Debug\CloneHeroScoreExporter.pdb
+C:\Users\Antony\source\repos\CloneHeroExcel\obj\Debug\CloneHeroScoreExporter.Properties.Resources.resources
+C:\Users\Antony\source\repos\CloneHeroExcel\obj\Debug\CloneHeroScoreExporter.exe
+C:\Users\Antony\source\repos\CloneHeroExcel\obj\Debug\CloneHeroScoreExporter.pdb
